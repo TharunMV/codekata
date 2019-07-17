@@ -7,6 +7,6 @@ int main() {
   if(asc>=97 && asc<=122)
   printf("Alphabet\n");
   else
-  printf("Invalid\n");
+  printf("No\n");
   return 0;
 } 
